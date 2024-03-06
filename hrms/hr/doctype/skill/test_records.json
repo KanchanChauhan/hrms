@@ -1,0 +1,4 @@
+[
+	{"doctype":"Skill", "skill_name":"_Test Skill", "parent_skill": "All Skills"},
+	{"doctype":"Skill", "skill_name":"_Test Skill 1", "parent_skill": "All Skills"}
+]
